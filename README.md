@@ -14,4 +14,5 @@ Y = n * 1
 W = m * 1 (m = numOfClusters)
 G = n * m
 
-the output of regdata2000 training mode:
+the output of regdata2000 dataset training mode:
+![](images/reg.jpg)
