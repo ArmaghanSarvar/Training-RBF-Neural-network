@@ -16,26 +16,28 @@ our fitness have been calculated and modified during the algorithm. ( relations 
 
 #### the output of regdata2000 dataset:
 iterations = 10
+
 clusters = 10
 
 * training mode:
 error = 0.015
-<img src = "images/reg.jpg" width = "500">
+<img src = "images/reg.jpg" width = "550">
 
 * testing mode:
 error = 0.026
-<img src = "images/regt.jpg" width = "500">
+<img src = "images/regt.jpg" width = "550">
 
 
 #### the output of 5clstest5000 dataset:
 iterations = 8
+
 clusters = 10
 
 * training mode:
 accuracy = 96.5 %
-<img src = "images/5clstest.jpg" width = "500">
+<img src = "images/5clstest.jpg" width = "550">
 
 * testing mode:
-error = 96.2 %
-<img src = "images/5clstrain.jpg" width = "500">
+accuracy = 96.2 %
+<img src = "images/5clstrain.jpg" width = "550">
 
