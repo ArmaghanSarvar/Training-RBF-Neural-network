@@ -8,7 +8,7 @@ actually the fitness of evolutionary algorithm has been calculated using the RBF
 the activation function of the network(G), guessed output(guessedY), weights' matrix(W) and finally the loss which is
 our fitness have been calculated and modified during the algorithm. ( relations available in the definition.pdf file )
 
-# for regression we have:
+### for regression we have:
 X(our data) = n * d 
 Y = n * 1
 W = m * 1 (m = numOfClusters)
