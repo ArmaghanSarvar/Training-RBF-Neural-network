@@ -16,4 +16,4 @@ our fitness have been calculated and modified during the algorithm. ( relations 
 
 the output of regdata2000 dataset training mode:
 
-<img src = "images/reg.jpg" width = "100">
+<img src = "images/reg.jpg" width = "700">
