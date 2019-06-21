@@ -27,6 +27,11 @@ error = 0.015
 error = 0.026
 <img src = "images/regt.jpg" width = "550">
 
+### for classification we have:
+* X(data) = n * d
+* Y = n * c
+* W = m * c (m = numOfClusters)
+* G = n * m
 
 #### the output of 5clstest5000 dataset:
 #### note that the wrong classified data is orange and the centers of clusters are green
