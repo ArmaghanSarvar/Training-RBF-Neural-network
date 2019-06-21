@@ -29,6 +29,7 @@ error = 0.026
 
 
 #### the output of 5clstest5000 dataset:
+#### note that the wrong classified data is orange and the centers of clusters are green
 iterations = 8
 
 clusters = 10
