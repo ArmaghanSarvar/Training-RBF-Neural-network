@@ -9,10 +9,11 @@ the activation function of the network(G), guessed output(guessedY), weights' ma
 our fitness have been calculated and modified during the algorithm. ( relations available in the definition.pdf file )
 
 ### for regression we have:
-X(our data) = n * d 
-Y = n * 1
-W = m * 1 (m = numOfClusters)
-G = n * m
+* X(our data) = n * d 
+* Y = n * 1
+* W = m * 1 (m = numOfClusters)
+* G = n * m
 
 the output of regdata2000 dataset training mode:
-![](images/reg.jpg)
+
+<img src = "images/reg.jpg" width = "100">
