@@ -8,7 +8,7 @@ and the fitness of evolutionary algorithm has been calculated using the RBF netw
 the activation function of the network(G), guessed output(guessedY), weights' matrix(W) and finally the loss which is
 our fitness have been calculated and modified during the algorithm. ( relations available in the definition.pdf file )
 
-the chromosomes(individuals) include gamma parameter (we know that the radials of the clusters is equal to 1/(gamma^1/2)) + their centers. each with the length of numOfClusters * (dimension+1) 
+the chromosomes(individuals) include gamma parameter (we know that the radial of the clusters is equal to 1/(gamma^1/2)) + their centers. each with the length of numOfClusters * (dimension+1) 
 
 ### for regression we have:
 * X(our data) = n * d 
