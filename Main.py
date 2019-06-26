@@ -144,7 +144,7 @@ def calculateFitness(individual):
 
     return error,
 
-######################################################################################
+##################################################################################### ES algorithm
 
 toolbox = base.Toolbox()
 toolbox.register("individual", generateES, creator.Individual, creator.Strategy,
