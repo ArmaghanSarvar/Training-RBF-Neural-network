@@ -48,4 +48,4 @@ accuracy = 96.5 %
 * testing mode:
 accuracy = 96.2 %
 <img src = "images/5clstrain.jpg" width = "550">
-
+   
